@@ -1,0 +1,9 @@
+c:\users\raj\documents\visual studio 2013\Projects\FileReader\FileReader\bin\Debug\FileReader.exe.config
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\bin\Debug\FileReader.exe
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\bin\Debug\FileReader.pdb
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\obj\Debug\FileReader.Form1.resources
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\obj\Debug\FileReader.Properties.Resources.resources
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\obj\Debug\FileReader.csproj.GenerateResource.Cache
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\obj\Debug\FileReader.exe
+C:\Users\Raj\documents\visual studio 2013\Projects\FileReader\FileReader\obj\Debug\FileReader.pdb

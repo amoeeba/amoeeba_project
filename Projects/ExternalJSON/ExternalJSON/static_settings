@@ -1,0 +1,13 @@
+{
+	     "version":              "2",
+	  "valuestore":[
+		{
+			        "name":              "fwUpdate.fwPackage.masterVersion",
+			        "type":              "string",
+			       "value":{
+				       "value":              "0.26.29"}},
+		{
+			        "name":              "fwUpdate.fwPackage.standbyVersion",
+			        "type":              "string",
+			       "value":{
+				       "value":              "0.17.52-hoangtran_16-01-2015_14:16_d3dcd30"}}]}

@@ -1,0 +1,6 @@
+c:\users\raj\documents\visual studio 2013\Projects\deserilization\deserilization\bin\Debug\deserilization.exe.config
+c:\users\raj\documents\visual studio 2013\Projects\deserilization\deserilization\bin\Debug\deserilization.exe
+c:\users\raj\documents\visual studio 2013\Projects\deserilization\deserilization\bin\Debug\deserilization.pdb
+c:\users\raj\documents\visual studio 2013\Projects\deserilization\deserilization\obj\Debug\deserilization.csprojResolveAssemblyReference.cache
+c:\users\raj\documents\visual studio 2013\Projects\deserilization\deserilization\obj\Debug\deserilization.exe
+c:\users\raj\documents\visual studio 2013\Projects\deserilization\deserilization\obj\Debug\deserilization.pdb

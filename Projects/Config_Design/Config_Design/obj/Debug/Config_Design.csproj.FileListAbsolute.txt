@@ -1,0 +1,9 @@
+c:\users\raj\documents\visual studio 2013\Projects\Config_Design\Config_Design\bin\Debug\Config_Design.exe.config
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\bin\Debug\Config_Design.exe
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\bin\Debug\Config_Design.pdb
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\obj\Debug\Config_Design.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\obj\Debug\Config_Design.Form1.resources
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\obj\Debug\Config_Design.Properties.Resources.resources
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\obj\Debug\Config_Design.csproj.GenerateResource.Cache
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\obj\Debug\Config_Design.exe
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\Config_Design\Config_Design\obj\Debug\Config_Design.pdb

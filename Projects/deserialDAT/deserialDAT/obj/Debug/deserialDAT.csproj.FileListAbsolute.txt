@@ -1,0 +1,6 @@
+c:\users\raj\documents\visual studio 2013\Projects\deserialDAT\deserialDAT\bin\Debug\deserialDAT.exe.config
+c:\users\raj\documents\visual studio 2013\Projects\deserialDAT\deserialDAT\bin\Debug\deserialDAT.exe
+c:\users\raj\documents\visual studio 2013\Projects\deserialDAT\deserialDAT\bin\Debug\deserialDAT.pdb
+c:\users\raj\documents\visual studio 2013\Projects\deserialDAT\deserialDAT\obj\Debug\deserialDAT.csprojResolveAssemblyReference.cache
+c:\users\raj\documents\visual studio 2013\Projects\deserialDAT\deserialDAT\obj\Debug\deserialDAT.exe
+c:\users\raj\documents\visual studio 2013\Projects\deserialDAT\deserialDAT\obj\Debug\deserialDAT.pdb
